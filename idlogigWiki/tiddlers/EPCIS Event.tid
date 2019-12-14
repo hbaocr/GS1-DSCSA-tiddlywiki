@@ -1,0 +1,18 @@
+created: 20190918073444109
+modified: 20190918084201947
+title: EPCIS Event
+tmap.edges: {"4b759111-f3fe-460c-a963-1d767d6030bd":{"to":"29558502-c899-443c-a6b1-103ec338bbac","type":"event-type"},"99055805-ce58-45fe-b2db-fd8dc1a239f7":{"to":"40d50778-e06d-4db0-970c-222b827409dc","type":"event-type"},"268b566b-9e20-48ad-8e5e-205f0c36b974":{"to":"5ab495ea-fc58-4084-abce-de2d523065b4","type":"event-type"},"6b4c83c5-9a25-479e-b0e7-11cb04f585b6":{"to":"eb3509ba-9cf5-4204-adab-ae2a080f71f4","type":"event-type"},"d405d5e2-284a-415b-b52c-c99ffee170ec":{"to":"04565bb8-92c5-4108-9967-c108a809bcd7","type":"event-type"},"63f4f081-54a9-483a-8ddd-ad67a52af294":{"to":"7052f912-c968-4aa1-b410-7cbc823b58f4","type":"event-type"}}
+tmap.id: a2ff46b8-f6da-4443-bdc8-2d35574ace36
+type: text/vnd.tiddlywiki
+
+In the GS1 [[EPCIS|EPCIS]] realm, there are six standard EPCIS event types that represent real-world events; Commission, Aggregation, Disaggregation, Observation, Transformation, and Decommission. In each of the event type, all the four dimensions (What, Why, Where, When) are recorded.
+
+* {{Commission}}
+* {{Aggregation}}
+* {{Disaggregation}}
+* {{Observation}}
+* {{Transformation}}
+* {{Decommission}}
+
+
+

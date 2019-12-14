@@ -1,0 +1,28 @@
+created: 20190919024825312
+modified: 20190919071656031
+title: Product Tracing
+tmap.edges: {"5a02f26d-f49b-42df-b3e3-d280c6180871":{"to":"18c98737-57aa-4dd6-9362-453aaa5d11d2","type":"include"},"49f2b405-416f-4b7c-ae18-db63e22990ce":{"to":"068a52f4-0cbd-4c45-a7bf-2438cf05ca96","type":"include"},"4c7e6cb2-ba79-4e24-8ccd-a3a955fb4528":{"to":"38bafa84-37f0-44fd-adbc-aab5bbaf6ca1","type":"include"}}
+tmap.id: 945bfe54-da33-4e20-a2a5-e7995070cdea
+type: text/vnd.tiddlywiki
+
+''DSCSA Standards for the Interoperable Exchange of Information…How to Exchange Product Tracing information''
+
+
+* Can use or build on current systems and processes to comply with the product tracing requirements
+* Can use current paper-based or electronic-based methods as long as the selected method(s) allow product tracing information to be exchanged in a manner that complies with the applicable requirements.
+* ''Examples of methods that could be used include, but are not limited to: ''
+** ''paper or electronic'' versions of invoices;
+** ''paper versions of packing slips'';
+** ''EDI ''(Electronic Data Interchange) standards, such as the Advance Ship Notice (ASN),
+** ''[[EPCIS|EPCIS]]'' (Electronic Product Code Information Services)
+* Email or web-based platforms are acceptable for transmitting or providing access to the product tracing information, as long as the information that is captured, maintained, and provided is in compliance with the law.
+
+''Product tracing''
+
+* Beginning 7/1/2015, dispensers in the drug supply chain must
+* exchange information about a drug and who handled it each time it is sold in the U.S. market.
+* Manufacturers, repackagers and wholesale distributors –began 1/1/2015
+* For each transaction, “product tracing information” should be exchanged. Product tracing information consists of:
+** [[Transaction information (TI)|Transaction Information (TI)]] (which include lot number of product (except for certain wholesale drug distributor transactions))
+** [[Transaction history (TH)|Transaction History (TH)]]
+** [[Transaction statement (TS)|Transaction Statement (TS)]]

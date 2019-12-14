@@ -1,0 +1,13 @@
+created: 20190919113501875
+modified: 20190919115805113
+title: GTIN
+tmap.edges: {"69779095-1034-4688-b222-76e73e3c8232":{"to":"6dd7abb5-da33-416d-8d21-89b3cd094d36","type":"include"},"79102459-1d91-4a9b-9e75-7d3bd20dbdaa":{"to":"f4e6c4e0-5429-4c23-bab4-7eda6669fb9b","type":"include"},"38dde887-d5e9-4c70-ba10-155f98feb0e4":{"to":"9f78313d-ed0e-4711-8036-9140f307bb29","type":"include"},"a40d29b6-6095-41df-a477-9875c7e6b52b":{"to":"83441427-8b0f-4ee2-8594-b5d06c551d9c","type":"include"}}
+tmap.id: 9ecec27d-612a-4c34-98fa-ea1d18be45bb
+type: text/vnd.tiddlywiki
+
+The Global Trade Item Number (GTIN) is the globally unique GS1 Identification Number used to identify “trade items” (i.e., products and services that may be priced, ordered or invoiced at any point in the supply chain). GTINs are assigned by the brand owner of the product, and are used to identify products as they move through the global supply chain to the hospital or ultimate end user. The GTIN is used to uniquely identify a product at each packaging level (e.g., a bottle of 100 aspirin tablets; a case of 200 bottles of aspirin tablets, etc.).
+
+[img[GTIN.png]]
+
+
+GTINs can be assigned as 8 digits, 12 digits, 13 digits, or 14 digits in length. ''Within the U.S. pharmaceutical supply chain, the 12-digit GTIN (known as the “GTIN-12”) and the 14-digit GTIN (known as the “GTIN-14”) are predominantly used''. Nonetheless, most barcodes require GTINs to be encoded in a 14-digit format. To accommodate that requirement, ''GTINs of less than 14-digits can be padded with leading zeros for encoding''. For example, to encode a GTIN-12 in a barcode that requires GTINs in 14-digit format ( for ex: GS1 DataMatrix), two leading zeros are added to the GTIN-12

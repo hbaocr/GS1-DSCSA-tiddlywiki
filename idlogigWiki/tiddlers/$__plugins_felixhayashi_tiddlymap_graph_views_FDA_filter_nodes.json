@@ -1,0 +1,10 @@
+[
+    {
+        "created": "20190918085539882",
+        "text": "",
+        "type": "text/vnd.tiddlywiki",
+        "title": "$:/plugins/felixhayashi/tiddlymap/graph/views/FDA/filter/nodes",
+        "modified": "20190919071221820",
+        "filter": " [field:tmap.id[b0904b30-914f-49de-a8ed-e0b6d1584283]] [field:tmap.id[5a7f5205-46fd-43df-8f69-34826655d109]] [field:tmap.id[de5ba2df-05a9-4b70-ae4d-1c893ba8cca7]] [field:tmap.id[38bafa84-37f0-44fd-adbc-aab5bbaf6ca1]] [field:tmap.id[068a52f4-0cbd-4c45-a7bf-2438cf05ca96]] [field:tmap.id[18c98737-57aa-4dd6-9362-453aaa5d11d2]] [field:tmap.id[ae314ff3-1c59-4bfa-b7e3-03c7f12c02dc]] [field:tmap.id[c11fb926-3415-4e85-94a4-24ac888f0446]] [field:tmap.id[6f7e8ca2-77ad-4436-8612-41c0f5703719]] [field:tmap.id[945bfe54-da33-4e20-a2a5-e7995070cdea]] [field:tmap.id[c6c20c95-a7f3-4ffc-a95e-ec03575fefcd]] [field:tmap.id[becc0647-9dad-4452-9794-841d78fdb2e4]] [field:tmap.id[e6fa49dd-44a2-4d4e-b721-b213cce6d790]] [field:tmap.id[1711fe81-e587-466e-bf99-85c87e53319d]] [field:tmap.id[059b3f5b-aee3-4acd-84c4-d18aef2e4bc1]]  [field:tmap.id[a7e02642-3047-4f59-a297-d38339e5872c]] [field:tmap.id[27de1393-cd81-4316-bc92-f4dbcf1addb2]] [field:tmap.id[34672b2e-d757-4da0-a307-d266c81a34f2]] [field:tmap.id[a5caf8ed-45c6-471f-9844-34f50622d828]] "
+    }
+]

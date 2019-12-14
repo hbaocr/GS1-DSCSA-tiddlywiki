@@ -1,0 +1,10 @@
+created: 20190919054034192
+modified: 20190919054414155
+title: Why
+tmap.id: f854e27c-73c3-449f-bd06-279d039daa8e
+type: text/vnd.tiddlywiki
+
+* ''Why'':  This describes the reasons behind the occurrence of the event.
+** (1) The business step of which this event was a part 
+** (2) A reference to business transactions (such as a purchase order) that define the context of this event. 
+** (3) Disposition – Indicating the condition/status (sellable, non-sellable, in transit, etc) of the product.

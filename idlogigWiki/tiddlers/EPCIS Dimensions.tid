@@ -1,0 +1,26 @@
+created: 20190918083232014
+modified: 20190926093458122
+title: EPCIS Dimensions
+tmap.edges: {"60b3e525-f284-4413-8961-3712f155c921":{"to":"585dd260-79b2-4d1f-a3a2-4950f14194be","type":"represented by"},"44928a07-70b7-4662-aafe-9f9286ccb664":{"to":"5cabf534-0a28-40d1-858b-7761bdbcbf9d","type":"represented by"},"c8aff80d-d2ee-4636-9916-ccb6d24178f8":{"to":"c80dce38-a4ff-4539-9fbc-09d74c41f2b8","type":"represented by"},"2f731451-8848-4a32-9398-ed4e1752b05d":{"to":"f854e27c-73c3-449f-bd06-279d039daa8e","type":"represented by"}}
+tmap.id: b3c2652d-c845-41f4-a1a3-61b540e4f3c9
+tmap.style: {"color":{"background":"rgba(252,169,26,1)"}}
+type: text/vnd.tiddlywiki
+
+At the heart of the GS1 EPCIS standard is EPCIS events. An EPCIS event represents a real-world event that happens in a supply chain. The EPCIS event tells us “what happened and the products involved”, “where it happened”, “when it happened” and finally “why it happened”.
+
+Here is a close look at the four dimensions of an EPCIS event (What, Where, When and Why),
+
+* ''What'' – This provides information on the action performed on a product. An example would be scanning of an SKU. Individual objects (''GTIN + Serial Number = SGTIN'')
+
+* ''Where'' – This indicates the location where the event took place and also the location where the product(s) would end up post the event. GLN of physical location (expressed as an SGLN in EPCIS)
+* ''When'' – This describes the date and time of the event. Date, time, time zone
+* ''Why'' – This describes the reasons behind the occurrence of the event. Business step (e.g. “Shipping”) and Disposition (e.g “in transit”)
+** (1) The business step of which this event was a part 
+** (2) A reference to business transactions (such as a purchase order) that define the context of this event. 
+** (3) Disposition – Indicating the condition/status (sellable, non-sellable, in transit, etc) of the product.
+
+
+[img[Screen Shot 2019-09-26 at 4.15.29 PM.png]]
+[img[Screen Shot 2019-09-26 at 4.27.19 PM.png]]
+[img[Screen Shot 2019-09-26 at 4.31.26 PM.png]]
+

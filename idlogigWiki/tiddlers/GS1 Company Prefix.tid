@@ -1,0 +1,8 @@
+created: 20190919112740809
+modified: 20190919113301041
+title: GS1 Company Prefix
+tmap.edges: {"af9261e1-e296-4ba1-b7d4-95f4c7c79df1":{"to":"73021e2f-8a66-4687-82dc-d537fbad07e2","type":"include"},"38acb9cb-3197-49cb-890f-794ef24e08b8":{"to":"30535155-a800-461f-b26a-5e3d4a31c270","type":"include"}}
+tmap.id: 9f78313d-ed0e-4711-8036-9140f307bb29
+type: text/vnd.tiddlywiki
+
+In order to use a Labeler Code as a GS1 Company Prefix, ''manufacturers must first contact GS1 US to have a GS1 Company Prefix that embeds their Labeler Code'' assigned to the company. Even when they already have the NDC  with labeler code

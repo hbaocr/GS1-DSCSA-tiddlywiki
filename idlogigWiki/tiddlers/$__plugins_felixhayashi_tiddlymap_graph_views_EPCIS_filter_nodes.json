@@ -1,0 +1,10 @@
+[
+    {
+        "created": "20190918071249293",
+        "text": "",
+        "type": "text/vnd.tiddlywiki",
+        "title": "$:/plugins/felixhayashi/tiddlymap/graph/views/EPCIS/filter/nodes",
+        "modified": "20190919073404058",
+        "filter": " [field:tmap.id[1711fe81-e587-466e-bf99-85c87e53319d]] [field:tmap.id[a2ff46b8-f6da-4443-bdc8-2d35574ace36]] [field:tmap.id[29558502-c899-443c-a6b1-103ec338bbac]] [field:tmap.id[40d50778-e06d-4db0-970c-222b827409dc]] [field:tmap.id[eb3509ba-9cf5-4204-adab-ae2a080f71f4]] [field:tmap.id[5ab495ea-fc58-4084-abce-de2d523065b4]] [field:tmap.id[04565bb8-92c5-4108-9967-c108a809bcd7]] [field:tmap.id[7052f912-c968-4aa1-b410-7cbc823b58f4]]  [field:tmap.id[b3c2652d-c845-41f4-a1a3-61b540e4f3c9]] [field:tmap.id[c80dce38-a4ff-4539-9fbc-09d74c41f2b8]] [field:tmap.id[585dd260-79b2-4d1f-a3a2-4950f14194be]] [field:tmap.id[5cabf534-0a28-40d1-858b-7761bdbcbf9d]] [field:tmap.id[f854e27c-73c3-449f-bd06-279d039daa8e]] [field:tmap.id[eeb75c2f-f1f8-4a90-a808-dfac97deb246]]"
+    }
+]

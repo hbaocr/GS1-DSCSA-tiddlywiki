@@ -1,0 +1,26 @@
+created: 20190918092218197
+modified: 20190919070352279
+title: Title II: DSCSA(Drug Supply Chain Security Act )
+tmap.edges: {"0024570a-aa6a-41cf-b154-2e83ed9d2874":{"to":"945bfe54-da33-4e20-a2a5-e7995070cdea","type":"include"},"aec6645c-07ae-404e-b3b4-05850d8f2e72":{"to":"c6c20c95-a7f3-4ffc-a95e-ec03575fefcd","type":"include"},"8ae9bc42-833b-4d92-90a8-d839470e6424":{"to":"34672b2e-d757-4da0-a307-d266c81a34f2","type":"act"}}
+tmap.id: e6fa49dd-44a2-4d4e-b721-b213cce6d790
+type: text/vnd.tiddlywiki
+
+''Title II of the Drug Quality and Security Act''
+
+* Product tracing (by 2015 lot-level, by 2023 package-level)
+* Product verification
+**Quarantine and investigation (steps for detection and response)
+**Notification, record keeping
+* Product identification (applied to product beginning 2017)
+* Wholesale distributor and Third-party logistics provider standards for licensure
+* Enhanced system (electronic, interoperable system to trace products at the package-level by 2023)
+
+* Penalties
+
+* National uniform policy
+
+{{Wholesale Distributor and 3PL Licensing and Standards}}
+
+{{Product Tracing}}
+
+''ref : ''https://www.fda.gov/media/93779/download

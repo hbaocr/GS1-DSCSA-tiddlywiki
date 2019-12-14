@@ -1,0 +1,10 @@
+[
+    {
+        "created": "20190919075747736",
+        "text": "",
+        "type": "text/vnd.tiddlywiki",
+        "title": "$:/plugins/felixhayashi/tiddlymap/graph/views/GS1 for Healthcare/filter/nodes",
+        "modified": "20190919115002409",
+        "filter": " [field:tmap.id[eeb75c2f-f1f8-4a90-a808-dfac97deb246]] [field:tmap.id[446a141d-7a4c-4b23-9e10-0129cdb9600f]] [field:tmap.id[200355d5-6b81-42da-b20f-ecd9ef7adf3e]] [field:tmap.id[87f43582-db78-4c66-a0b4-a08e049290e2]]  [field:tmap.id[e1a3c1d7-48c6-4ff7-a5a1-56e04f4f2e0c]] [field:tmap.id[30535155-a800-461f-b26a-5e3d4a31c270]] [field:tmap.id[83441427-8b0f-4ee2-8594-b5d06c551d9c]] [field:tmap.id[9f78313d-ed0e-4711-8036-9140f307bb29]] [field:tmap.id[73021e2f-8a66-4687-82dc-d537fbad07e2]] [field:tmap.id[9ecec27d-612a-4c34-98fa-ea1d18be45bb]]  [field:tmap.id[6dd7abb5-da33-416d-8d21-89b3cd094d36]] [field:tmap.id[f4e6c4e0-5429-4c23-bab4-7eda6669fb9b]]"
+    }
+]

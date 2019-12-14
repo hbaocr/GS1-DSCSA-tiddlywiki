@@ -1,0 +1,5 @@
+created: 20190918071238075
+filter: -[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+modified: 20190919065410766
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/EPCIS/filter/edges
+type: text/vnd.tiddlywiki

@@ -1,0 +1,7 @@
+created: 20190919113635660
+modified: 20190919113736222
+title: SGTIN
+tmap.id: 71399016-139b-44db-badc-1c29316fee6f
+type: text/vnd.tiddlywiki
+
+The SGTIN is a supply chain identifier used to identify individual instances of a product for supply chain purposes. There is a cohesive, hierarchical relationship between these identifiers. As illustrated in the figure below, NDCs can be embedded into GTINs so that identification of pharmaceutical products for supply chain purposes is consistent with identification of pharmaceutical products for regulatory purposes

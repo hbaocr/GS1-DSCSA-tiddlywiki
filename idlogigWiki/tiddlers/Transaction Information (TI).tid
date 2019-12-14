@@ -1,0 +1,29 @@
+created: 20190918085538825
+modified: 20190919071814300
+title: Transaction Information (TI)
+tmap.edges: {"180a73b8-5574-4478-af02-5c3941298683":{"to":"1711fe81-e587-466e-bf99-85c87e53319d","type":"represented by"},"d33e520d-ddca-4c66-96c9-c5c48affe256":{"to":"059b3f5b-aee3-4acd-84c4-d18aef2e4bc1","type":"represented by"},"65423edc-987b-4202-b057-d47560e0db31":{"to":"a7e02642-3047-4f59-a297-d38339e5872c","type":"represented by"},"7f1b4d1a-ae03-4415-aba6-2148f424146f":{"to":"a5caf8ed-45c6-471f-9844-34f50622d828","type":"include"}}
+tmap.id: 068a52f4-0cbd-4c45-a7bf-2438cf05ca96
+type: text/vnd.tiddlywiki
+
+Transaction Information (TI):
+
+• Proprietary or established name or names of
+the product;
+
+• Strength and dosage form of the product;
+
+• National Drug Code number of the product;
+
+• Container size;
+
+• Number of containers;
+
+• Lot number of the product;
+
+• Date of the transaction;
+
+• Date of the shipment, if more than 24 hours after the date of the transaction; and
+
+• Business name and address of the person
+from whom and to whom ownership is being
+transferred

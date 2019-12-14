@@ -1,0 +1,18 @@
+created: 20190919110257662
+modified: 20190919111823431
+title: NDC(National Drug Code)
+tmap.edges: {"2d1f3360-4c9f-47b8-9a0d-8e513f8f5093":{"to":"30535155-a800-461f-b26a-5e3d4a31c270","type":"include"},"776341ba-480d-432c-bb38-fba8cd04c32d":{"to":"83441427-8b0f-4ee2-8594-b5d06c551d9c","type":"include"}}
+tmap.id: e1a3c1d7-48c6-4ff7-a5a1-56e04f4f2e0c
+type: text/vnd.tiddlywiki
+
+The NDC is a ''10-digit identifier'' comprising two segments: a ''Labeler Code'' assigned by the FDA and a ''Product/Package Code'' assigned by the manufacturer. 
+
+The ''Labeler Code'' is a variable length identifier assigned by the FDA (and encoded into NDCs) to identify a company that manufactures a drug or distributes a drug under its own name (including repackagers or relabelers)
+
+''GS1 US has reserved a placeholder in the GS1 Company Prefix ''numbering system that enables the NDC Labeler Code to be integrated into the GS1 Company Prefix for pharmaceutical companies. The placeholder (named the “GS1 Prefix”)'' is 03'', and the GS1 Company Prefix for a pharmaceutical company is simply its Labeler Code with “03” appended in front. For example:
+
+* ''GS1 Prefix'' 03
+* ''FDA-assigned Labeler Code''  61414
+* ''GS1 Company Prefix'' 0361414
+
+

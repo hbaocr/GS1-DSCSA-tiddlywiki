@@ -1,0 +1,11 @@
+created: 20190918085110989
+modified: 20190919042110406
+title: Transaction History (TH)
+tmap.edges: {"e68fed41-70b6-45e8-8761-e83eaba01a36":{"to":"1711fe81-e587-466e-bf99-85c87e53319d","type":"represented by"},"f578dbbf-52a5-418d-9432-6a9e3947849a":{"to":"059b3f5b-aee3-4acd-84c4-d18aef2e4bc1","type":"represented by"},"1a14dd35-d0c6-47a1-806d-4fdd84df3ff7":{"to":"a7e02642-3047-4f59-a297-d38339e5872c","type":"represented by"}}
+tmap.id: 18c98737-57aa-4dd6-9362-453aaa5d11d2
+type: text/vnd.tiddlywiki
+
+Transaction History (TH): 
+A statement in paper or electronic form, including the
+transaction information for each prior transaction
+going back to the manufacturer of the product.

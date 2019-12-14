@@ -1,0 +1,30 @@
+created: 20190919070638177
+modified: 20190919072526409
+title: Product identification (Serialization)
+tmap.id: a5caf8ed-45c6-471f-9844-34f50622d828
+type: text/vnd.tiddlywiki
+
+* Put a unique product identifier on certain prescription drug packages
+
+** Manufacturers (No later than 11/27/2017)
+** Repackagers (No later than 11/27/2018) 
+
+* Product identifier consists of
+
+** ''NDC-National Drug Code''
+** ''Serial number''
+** Lot Number
+** Expiration Date
+
+* ''Data Carrier – 2D bar code''
+
+* ''After products are serialized'' :Only buy and sell products encoded with product identifiers(unless grandfathered under section 582(a)(5))
+** Repackagers (beginning 11/27/2018)
+** Wholesale distributor (beginning 11/27/2019)
+** Dispensers (beginning 11/27/2020)
+* Verification product at the package level, including the standardized numerical identifier (NDC and serial number)-see respective sections of 582 for specific verification requirements
+** Manufacturers: starting 11/27/2017
+** Repackagers: starting 11/27/2018
+** Wholesale distributors: starting 11/27/2019
+* Dispensers: starting 11/27/2020
+* Enhanced product tracing by 2023 at the package-level

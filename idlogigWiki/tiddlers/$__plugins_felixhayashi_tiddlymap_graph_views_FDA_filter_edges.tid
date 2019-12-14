@@ -1,0 +1,5 @@
+created: 20190918085033611
+filter: -[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+modified: 20190918085033611
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/FDA/filter/edges
+type: text/vnd.tiddlywiki
