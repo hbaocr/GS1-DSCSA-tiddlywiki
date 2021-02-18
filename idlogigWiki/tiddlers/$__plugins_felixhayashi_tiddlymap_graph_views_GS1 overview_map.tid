@@ -1,5 +1,5 @@
 created: 20210218071505231
-modified: 20210218161710422
+modified: 20210218163508264
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/GS1 overview/map
 type: text/vnd.tiddlywiki
 
@@ -21,12 +21,12 @@ type: text/vnd.tiddlywiki
   "y": -743
  },
  "9ecec27d-612a-4c34-98fa-ea1d18be45bb": {
-  "x": -603,
-  "y": -370
+  "x": -705,
+  "y": -373
  },
  "9437759c-f253-429e-9c39-61da9e211f94": {
-  "x": -706,
-  "y": -373
+  "x": -795,
+  "y": -374
  },
  "1434a49d-c0f9-4068-8592-d76c42f3eeeb": {
   "x": -727,
@@ -45,8 +45,8 @@ type: text/vnd.tiddlywiki
   "y": -486
  },
  "71399016-139b-44db-badc-1c29316fee6f": {
-  "x": -520,
-  "y": -336
+  "x": -569,
+  "y": -371
  },
  "059b3f5b-aee3-4acd-84c4-d18aef2e4bc1": {
   "x": -90,
@@ -61,8 +61,8 @@ type: text/vnd.tiddlywiki
   "y": -472
  },
  "2f4b5982-0c2f-418a-91fd-bb739142fec0": {
-  "x": -424,
-  "y": -364
+  "x": -381,
+  "y": -368
  },
  "9dae8d66-884f-458b-b2c2-e3ff76c84eb0": {
   "x": -280,

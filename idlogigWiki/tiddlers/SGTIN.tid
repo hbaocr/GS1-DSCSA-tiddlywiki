@@ -1,11 +1,10 @@
 created: 20190919113635660
-modified: 20210218155727800
+modified: 20210218163406498
 tags: UHF-RFID EDI EPCIS
 title: SGTIN
-tmap.edges: {}
+tmap.edges: {"50b3c21d-3d28-413c-9302-173ecf21ad26":{"to":"9f78313d-ed0e-4711-8036-9140f307bb29","type":"include"}}
 tmap.id: 71399016-139b-44db-badc-1c29316fee6f
 type: text/vnd.tiddlywiki
-
 
 ''SGTIN usually is used in UHF-RFID, [[EDI]],[[EPCIS]] to describe the particular product item ''
 
