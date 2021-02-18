@@ -1,0 +1,10 @@
+[
+    {
+        "created": "20210218052516901",
+        "text": "",
+        "type": "text/vnd.tiddlywiki",
+        "title": "$:/plugins/felixhayashi/tiddlymap/graph/views/GS1 overview/filter/nodes",
+        "modified": "20210218153919860",
+        "filter": " [field:tmap.id[469b01a5-e6f9-4061-abe6-95091324ef73]] [field:tmap.id[64edf0fc-6367-47f0-a1a9-08264dd7075d]] [field:tmap.id[df78581d-1d9b-4802-aa3e-5825da8999b3]] [field:tmap.id[eeb75c2f-f1f8-4a90-a808-dfac97deb246]] [field:tmap.id[9ecec27d-612a-4c34-98fa-ea1d18be45bb]] [field:tmap.id[9437759c-f253-429e-9c39-61da9e211f94]] [field:tmap.id[1434a49d-c0f9-4068-8592-d76c42f3eeeb]] [field:tmap.id[9f78313d-ed0e-4711-8036-9140f307bb29]] [field:tmap.id[37e69d33-dac3-425a-a4da-a75ab0d47f07]] [field:tmap.id[c2d2bc08-3be4-4d52-b402-7d08775b4d99]] [field:tmap.id[71399016-139b-44db-badc-1c29316fee6f]] [field:tmap.id[059b3f5b-aee3-4acd-84c4-d18aef2e4bc1]] [field:tmap.id[4b60dd48-274e-4aaa-8e32-5843a6704981]] [field:tmap.id[1711fe81-e587-466e-bf99-85c87e53319d]] [field:tmap.id[2f4b5982-0c2f-418a-91fd-bb739142fec0]] [field:tmap.id[9dae8d66-884f-458b-b2c2-e3ff76c84eb0]] [field:tmap.id[c360739d-8291-4578-a8c1-912964841fe0]] [field:tmap.id[90181393-8945-40c8-8d6d-0b9793e67872]] [field:tmap.id[bcdd4bee-8905-4f73-a549-f47b2392191a]]"
+    }
+]

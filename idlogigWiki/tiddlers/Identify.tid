@@ -1,0 +1,21 @@
+created: 20210218042754987
+modified: 20210218154702512
+title: Identify
+tmap.edges: {"a586fb06-2365-46eb-addf-8207113e3b5b":{"to":"1434a49d-c0f9-4068-8592-d76c42f3eeeb","type":"include"},"b2b7f144-eb81-4803-bb26-dbce60ab9a3f":{"to":"c2d2bc08-3be4-4d52-b402-7d08775b4d99","type":"include"}}
+tmap.id: 469b01a5-e6f9-4061-abe6-95091324ef73
+tmap.style: {"color":{"background":"rgba(252,176,7,1)"}}
+type: text/vnd.tiddlywiki
+
+[[https://www.gs1.org/standards/id-keys]]
+
+''Globally unique identification keys
+''
+
+GS1 identification standards include standards that define unique identification codes (called GS1 identification keys) which may be used by an information system to refer unambiguously to a real-world entity such as a:
+
+* trade item
+* logistics unit
+* physical location
+* document
+* service relationship
+* other entity 

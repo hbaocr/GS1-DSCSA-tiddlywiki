@@ -1,0 +1,21 @@
+created: 20210218152446048
+modified: 20210218155548329
+tags: NFC [[1D/2D code]] GS1-link [[Printed label]]
+title: GS1-128
+tmap.edges: {}
+tmap.id: 2f4b5982-0c2f-418a-91fd-bb739142fec0
+type: text/vnd.tiddlywiki
+
+//''GS1-128 is usually used in NFC, 1D/2D CODE, GS1-link, Printed label''//
+
+[[''GS1-128''|https://en.wikipedia.org/wiki/GS1-128]] is an application standard of the GS1 implementation using the Code 128 barcode specification. The former correct name was UCC/EAN-128. Other no longer used names have included UCC-128 and EAN-128. The GS1-128 standard was introduced in 1989 [1] and uses a series of Application Identifiers to include additional data such as best before dates, batch numbers, quantities, weights and many other attributes needed by the user
+
+
+[img[Screen Shot 2021-02-18 at 22.33.49.png]]
+
+
+The list of [[AI number|https://www.gs1.org/standards/barcodes/application-identifiers]]
+[img[Screen Shot 2021-02-18 at 22.38.13.png]]
+
+
+

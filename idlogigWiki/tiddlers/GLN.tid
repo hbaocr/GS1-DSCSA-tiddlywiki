@@ -1,0 +1,23 @@
+created: 20210218142810044
+modified: 20210218144649124
+title: GLN
+tmap.edges: {"75a2fb07-83ee-427a-9c34-a4cee42a2fd0":{"to":"9f78313d-ed0e-4711-8036-9140f307bb29","type":"include"},"703b4b83-5eb9-4571-a79f-515cbcbee970":{"to":"37e69d33-dac3-425a-a4da-a75ab0d47f07","type":"include"}}
+tmap.id: 9437759c-f253-429e-9c39-61da9e211f94
+type: text/vnd.tiddlywiki
+
+The [[Global Location Number|https://www.gs1us.org/DesktopModules/Bring2mind/DMX/Download.aspx?Command=Core_Download&EntryId=158&language=en-US&PortalId=0&TabId=134#:~:text=Yes.,a%20GTIN%20(e.g.%2C%20U.P.C.)%3F&text=GLNs%20identify%20parties%20and%20locations,i.e.%2C%20products%20and%20services).]] (GLN) is used to identify locations and legal entities. This unique identifier is comprised of a GS1 Company Prefix, Location Reference, and Check Digit.
+[img[Screen Shot 2021-02-18 at 21.38.52.png]]
+
+
+*''__Company Prefix__'' is the globally unique number issued to your company by GS1 US® or another GS1 Member Organization. GS1 Company Prefixes are assigned to companies in varying lengths. Some GS1 US members may have a prefix certificate that shows only a U.P.C. Company Prefix (formerly a UCC Company Prefix). A U.P.C. ''//Company Prefix must be converted to a GS1 Company Prefix for use in the GLN. This is accomplished by adding a zero to the front of the U.P.C. Company Prefix//''
+
+
+
+*''__The Location Reference number__'' is assigned by you, the holder of the GS1 Company Prefix, to identify a location or a legal function within your company. The Location Reference varies in length as a function of the GS1 Company Prefix length. //''Note that the combined length of the GS1 Company Prefix and Location Reference is always 12 digits.''//
+
+
+*__''The Check Digit''__ is a calculated one-digit number used to validate data integrity. To understand how this digit is calculated, refer to [[www.gs1us.org/checkdig]]
+
+
+
+

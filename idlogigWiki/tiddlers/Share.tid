@@ -1,0 +1,31 @@
+created: 20210218043939027
+modified: 20210218161732418
+title: Share
+tmap.edges: {"395086f0-9801-4a0f-a218-613970523a6b":{"to":"059b3f5b-aee3-4acd-84c4-d18aef2e4bc1","type":"described by"},"8e8ee037-d4b7-46f7-967a-99bf07ee43c0":{"to":"1711fe81-e587-466e-bf99-85c87e53319d","type":"described by"},"175a6b62-878c-43bd-a9e1-fbfddb63b9a9":{"to":"90181393-8945-40c8-8d6d-0b9793e67872","type":"described by"}}
+tmap.id: df78581d-1d9b-4802-aa3e-5825da8999b3
+tmap.style: {"color":{"background":"rgba(252,176,16,1)"}}
+type: text/vnd.tiddlywiki
+
+Exchange of business-critical information
+
+''1. EDI Transaction data''
+
+{{EDI}}
+
+
+''2. Product Data Sharing (Master Data)''
+
+* Global Data Synchronisation Network ([[GDSN|https://www.gs1.org/services/gdsn/news-gdsn]])
+* Global Electronic Party Information Register [[GEPIR|https://gepir.gs1.org/index.php/search-by-gtin]]
+* [[GS1 Digital Link|https://www.gs1.org/standards/gs1-digital-link]]
+
+''3. Visibility Event Data''
+
+* [[EPCIS]] and Core Business Vocabulary (CBV)
+
+''4. Verification Messaging''
+
+https://www.gs1.org/verification-messaging
+
+* This standard is a new addition to the “Share” layer of GS1 standards. At a high level, the request/response is a form of transactional messaging, albeit without a direct link to existing GS1 EDI standards.
+* This is the first GS1 standard to include JSON as a message response syntax; it is also the first GS1 standard to leverage the new GS1 Digital Link (Web URI) standard for the request syntax

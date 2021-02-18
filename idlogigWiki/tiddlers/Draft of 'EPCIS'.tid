@@ -1,12 +1,16 @@
 created: 20190918071248251
-modified: 20210218155942580
-title: EPCIS
+draft.of: EPCIS
+draft.title: EPCIS
+modified: 20210218161628678
+title: Draft of 'EPCIS'
 tmap.edges: {"b8ad1744-4f63-4318-a7ef-5d622109e529":{"to":"a2ff46b8-f6da-4443-bdc8-2d35574ace36","type":"tmap:unknown"}}
 tmap.id: 1711fe81-e587-466e-bf99-85c87e53319d
 tmap.style: {"color":{"background":"rgba(217,252,48,1)"}}
 type: text/vnd.tiddlywiki
 
 https://byteally.com/insights/supply-chain/gs1-epcis-standard/
+
+''//usually used in N to M transaction//''
 
  ''What GS1 EPCIS Standard?''
 

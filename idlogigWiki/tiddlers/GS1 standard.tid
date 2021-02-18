@@ -1,8 +1,16 @@
 created: 20190919073402996
-modified: 20190919073704892
+modified: 20210218054647104
 title: GS1 standard
-tmap.edges: {}
+tmap.edges: {"230528ce-53af-4974-89d6-b4e8103c6bc1":{"to":"469b01a5-e6f9-4061-abe6-95091324ef73","type":"include"},"a811ddd2-d9a5-4ab8-a9f3-d4de1c5da0b1":{"to":"64edf0fc-6367-47f0-a1a9-08264dd7075d","type":"include"},"ebfca8b7-f971-4f1b-b73d-f23cc3101077":{"to":"df78581d-1d9b-4802-aa3e-5825da8999b3","type":"include"}}
 tmap.id: eeb75c2f-f1f8-4a90-a808-dfac97deb246
 type: text/vnd.tiddlywiki
 
+[[https://www.gs1.org/standards]]
+
 GS1® is a neutral, not-for-profit, global organization that develops and maintains the most widely-used supply chain standards system in the world. GS1 Standards improve the efficiency, safety, and visibility of supply chains across multiple sectors. With local Member Organizations in over 110 countries, GS1 engages with communities of trading partners, industry organizations, governments, and technology providers to understand and respond to their business needs through the adoption and implementation of global standards. GS1 is driven by over a million user companies, which execute more than six billion transactions daily in 150 countries using GS1 Standards
+
+[img[Screen Shot 2021-02-18 at 12.28.25.png]]
+
+* ''Identify''
+
+{{Identify}}

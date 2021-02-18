@@ -1,7 +1,34 @@
 created: 20190919113635660
-modified: 20190919113736222
+modified: 20210218155727800
+tags: UHF-RFID EDI EPCIS
 title: SGTIN
+tmap.edges: {}
 tmap.id: 71399016-139b-44db-badc-1c29316fee6f
 type: text/vnd.tiddlywiki
 
-The SGTIN is a supply chain identifier used to identify individual instances of a product for supply chain purposes. There is a cohesive, hierarchical relationship between these identifiers. As illustrated in the figure below, NDCs can be embedded into GTINs so that identification of pharmaceutical products for supply chain purposes is consistent with identification of pharmaceutical products for regulatory purposes
+
+''SGTIN usually is used in UHF-RFID, [[EDI]],[[EPCIS]] to describe the particular product item ''
+
+
+* __''SGTIN INFO''__(in general):  The EPC schema to encode a [[GTIN]] is the ''sgtin'' which consists of the GTIN plus a unique product or serial number. The ''sgtin scheme'' has three different encodings //''64, 96, and 198''//. Each encoding relates to the number of bits in the final EPC binary form
+**
+***[img[Screen Shot 2021-02-18 at 22.07.10.png]]
+
+
+**''//For example //''
+
+
+***[img[Screen Shot 2021-02-18 at 22.03.51.png]]
+
+***[img[Screen Shot 2021-02-18 at 22.16.10.png]]
+
+
+
+*__''In Healthcare:''__ The SGTIN is a supply chain identifier used to identify individual instances of a product for supply chain purposes. There is a cohesive, hierarchical relationship between these identifiers. As illustrated in the figure below, NDCs can be embedded into GTINs so that identification of pharmaceutical products for supply chain purposes is consistent with identification of pharmaceutical products for regulatory purposes
+
+*''Reference''
+
+** [[https://www.epc-rfid.info/sgtin#:~:text=The%20EPC%20schema%20to%20encode,64%2C%2096%2C%20and%20198.]]
+
+** [[https://www.gs1us.org/DesktopModules/Bring2mind/DMX/Download.aspx?Command=Core_Download&EntryId=389&language=en-US&PortalId=0&TabId=134]]
+

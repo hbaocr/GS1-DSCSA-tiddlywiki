@@ -1,0 +1,13 @@
+created: 20210218043739925
+modified: 20210218154739117
+title: Capture
+tmap.edges: {"11806947-0c69-4c89-be09-f7aa32e6be74":{"to":"c360739d-8291-4578-a8c1-912964841fe0","type":"described by"},"683545b3-5b09-4b35-b211-7a7d75c2c8d8":{"to":"4b60dd48-274e-4aaa-8e32-5843a6704981","type":"described by"},"15ea1f74-0443-4b02-8b38-f6903c6e5a38":{"to":"9dae8d66-884f-458b-b2c2-e3ff76c84eb0","type":"described by"},"fe8e5d1d-0427-44be-a98b-80c369471118":{"to":"bcdd4bee-8905-4f73-a549-f47b2392191a","type":"described by"}}
+tmap.id: 64edf0fc-6367-47f0-a1a9-08264dd7075d
+tmap.style: {"color":{"background":"rgba(252,189,78,1)"}}
+type: text/vnd.tiddlywiki
+
+This is data carrier
+
+*  ''1D Code'' Barcode
+*  ''2D code'' ( QR,DataMatrix,PDF417,..)
+*  ''RFID'' NFC, NTAG,NTAG-NDA, EPC-Gen2
